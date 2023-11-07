@@ -17,6 +17,25 @@ Frameworks: React, Nextjs
 Version control: GIT, Github
 Graphics: Figma
 
+## Code Examples
+```
+Array.prototype.sameStructureAs = function (other) {
+  
+  function checkArrays(arr1,arr2){
+    if (isArray(arr1)!==isArray(arr2) || (isArray(arr1) && arr1.length!==arr2.length)) return false;
+
+    const result =  arr1.reduce((state,item,index)=>{
+      if (!isArray(item) && !isArray(arr2[index])) return state && true;      
+      if (isArray(item) && isArray(item) && isArray(arr2[index])) return state && checkArrays(item, arr2[index]);
+      return state && false;
+    },true)
+    return result
+  }
+  
+  return checkArrays(this,other);
+};
+```
+
 ## Work Experience (Junior Devs can list educational projects with the skills used and links to the source code)
 Web-server on expressjs with features like link-shortening, google spreadsheet processing, file-downloading proxy
 and I sometimes append it with new features.
