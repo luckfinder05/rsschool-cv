@@ -2,19 +2,25 @@
 
 ## Contact Information
 e-mail: no-vlad@yandex.ru
+
 telegram: @no_vlad
+
 github: https://github.com/luckfinder05
 
 ## Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
 I'm a beginner web-developer without work experience and my goal is to get some experience by completing projects in the rs-school.
+
 I've learned by myself html, css, javascript, after what I understood that I need backend knowledge and learned expressjs.
 
 ![portrait_sm](https://github.com/luckfinder05/rsschool-cv/assets/39525356/27614c92-c681-4cef-bdae-5f919f6b6281)
 
 ## Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
 Web-development: HTML5, CSS3, Javascript
+
 Frameworks: React, Nextjs
+
 Version control: GIT, Github
+
 Graphics: Figma
 
 ## Code Examples
