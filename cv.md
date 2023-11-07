@@ -7,7 +7,7 @@ telegram: @no_vlad
 
 github: https://github.com/luckfinder05
 
-## Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
+## Brief Self-Introduction
 I'm a beginner web-developer without work experience and my goal is to get some experience by completing projects in the rs-school.
 
 I've learned by myself html, css, javascript, after what I understood that I need backend knowledge and learned expressjs.
@@ -18,7 +18,7 @@ width="400"
   style="text-align:center;"
   />
 
-## Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
+## Skills
 Web-development: HTML5, CSS3, Javascript
 
 Frameworks: React, Nextjs
@@ -46,12 +46,11 @@ Array.prototype.sameStructureAs = function (other) {
 };
 ```
 
-## Work Experience (Junior Devs can list educational projects with the skills used and links to the source code)
-Web-server on expressjs with features like link-shortening, google spreadsheet processing, file-downloading proxy
-and I sometimes append it with new features.
+## Work Experience
+Have no finished project I can be proud of.
 
 ## Education (including completed courses and training)
 Udemy Web-developer 2021
 
 ## English Language (your English proficiency level, and if you had language practice, describe it)
-My english proficiency level is B2. I've had practice in 2018 while constructing solar station
+My English proficiency level is B2. I've had practice in 2018 while constructing solar station.
