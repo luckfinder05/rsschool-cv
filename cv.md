@@ -9,6 +9,7 @@ github: https://github.com/luckfinder05
 I'm a beginner web-developer without work experience and my goal is to get some experience by completing projects in the rs-school.
 I've learned by myself html, css, javascript, after what I understood that I need backend knowledge and learned expressjs.
 
+![portrait_sm](https://github.com/luckfinder05/rsschool-cv/assets/39525356/27614c92-c681-4cef-bdae-5f919f6b6281)
 
 ## Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
 Web-development: HTML5, CSS3, Javascript
