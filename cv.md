@@ -18,7 +18,7 @@ Version control: GIT, Github
 Graphics: Figma
 
 ## Code Examples
-```
+```js
 Array.prototype.sameStructureAs = function (other) {
   
   function checkArrays(arr1,arr2){
